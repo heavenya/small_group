@@ -87,7 +87,7 @@ flutter doctor
 
 ### Tools
 
-- [Presentator for Prototype Reference](https://www.figma.com/file/3tdTLUgd4AUVegtoOELJka/Small-Group?node-id=0%3A1)
+- [Figma For UI Reference](https://www.figma.com/file/3tdTLUgd4AUVegtoOELJka/Small-Group?node-id=0%3A1)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Google Calendar for objectives/meetings](https://calendar.google.com/calendar/u/0?cid=aGVhdmVueWEudXNAZ21haWwuY29t)
 - [Linux For SSL](https://linuxize.com/post/secure-nginx-with-let-s-encrypt-on-centos-7/)
