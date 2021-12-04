@@ -1,6 +1,6 @@
 # Small group
 
-Small group is a mobile application for believers in the christian community to find small groups nearby to have connsitent fellowship experiences to enjoy after work and on the weekends.
+Small group is a mobile application for believers in the christian community to find small groups nearby to have consistent fellowship experiences to enjoy after work and on the weekends.
 
 ## Getting Started
 
