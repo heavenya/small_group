@@ -2,6 +2,10 @@
 
 Small group is a mobile application for believers in the christian community to find small groups nearby to have consistent fellowship experiences to enjoy after work and on the weekends.
 
+## Visual
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3tdTLUgd4AUVegtoOELJka%2FSmall-Group%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+
 ## Getting Started
 
 ### [Install Flutter On Your Computer](https://www.youtube.com/watch?v=YVaFoCiQ2SI)
