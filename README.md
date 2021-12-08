@@ -85,11 +85,14 @@ flutter doctor
 
 - Flutter Framework Which Is Written In Dart
 
+
+### Credits
+- App Icon <div>Icons made by <a href="https://www.flaticon.com/authors/sbts2018" title="SBTS2018">SBTS2018</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 ### Tools
 
 - [Figma For UI Reference](https://www.figma.com/file/3tdTLUgd4AUVegtoOELJka/Small-Group?node-id=0%3A1)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Google Calendar for objectives/meetings](https://calendar.google.com/calendar/u/0?cid=aGVhdmVueWEudXNAZ21haWwuY29t)
-- [Linux For SSL](https://linuxize.com/post/secure-nginx-with-let-s-encrypt-on-centos-7/)
 - [Slack For Communication](https://join.slack.com/t/heavenya/shared_invite/zt-tan426tx-XTzUHxegbN5ZzHY81iwMGw)
 - [Trello For Objectives](https://trello.com/b/BmCeeNK9/development-team)
