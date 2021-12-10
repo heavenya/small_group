@@ -76,6 +76,12 @@ flutter doctor
 - <div>App Icon made by <a href="https://www.flaticon.com/authors/sbts2018" title="SBTS2018">SBTS2018</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 - <div>Map Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
+
+### Additional Resources
+- [Tool for generating app icons](https://appicon.co/)
+- [Video for manually uploading app icon](https://www.youtube.com/watch?v=O9ChjwrZqns)
+
+
 ### Tools
 
 - [Figma For UI Reference](https://www.figma.com/file/3tdTLUgd4AUVegtoOELJka/Small-Group?node-id=0%3A1)
