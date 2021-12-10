@@ -1,6 +1,6 @@
 # Small group
 
-Small group is a mobile application for believers in the christian community to find small groups nearby to have connsitent fellowship experiences to enjoy after work and on the weekends.
+Small group is a mobile application for believers in the christian community to find small groups nearby to have consistent fellowship experiences to enjoy after work and on the weekends.
 
 ## Getting Started
 
@@ -20,22 +20,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### Create A New Project
-- [To create a new project](https://www.youtube.com/watch?v=QTiMoC99Iw8) open Flutter folder in Visual Studio. 
-- Type cmd + p
-- ">Flutter:new-protect"
-- Select application option
-- Give the application a name that is all lowercase with _ to seperate the words
-
-### Connecting To Github With SSH
-
-```
-git init
-```
-
-```
-git add --all
-```
+### Updating Github
 
 ```
 git commit -m "commit description"
@@ -83,13 +68,18 @@ flutter doctor
 
 ### Technology Stack
 
-- Flutter Framework Which Is Written In Dart
+- Flutter Frontend
+- Firebase Backend
+
+
+### Credits
+- <div>App Icon made by <a href="https://www.flaticon.com/authors/sbts2018" title="SBTS2018">SBTS2018</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+- <div>Map Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ### Tools
 
 - [Figma For UI Reference](https://www.figma.com/file/3tdTLUgd4AUVegtoOELJka/Small-Group?node-id=0%3A1)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Google Calendar for objectives/meetings](https://calendar.google.com/calendar/u/0?cid=aGVhdmVueWEudXNAZ21haWwuY29t)
-- [Linux For SSL](https://linuxize.com/post/secure-nginx-with-let-s-encrypt-on-centos-7/)
 - [Slack For Communication](https://join.slack.com/t/heavenya/shared_invite/zt-tan426tx-XTzUHxegbN5ZzHY81iwMGw)
 - [Trello For Objectives](https://trello.com/b/BmCeeNK9/development-team)
