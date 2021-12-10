@@ -77,9 +77,15 @@ flutter doctor
 - <div>Map Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 
-### Additional Resources
+### Sequential Resources
 - [Tool for generating app icons](https://appicon.co/)
 - [Video for manually uploading app icon](https://www.youtube.com/watch?v=O9ChjwrZqns)
+- [Video for manually adding splash screen](https://www.youtube.com/watch?v=itpd898uhyg)
+
+### Additional Resources
+- [Finding coding packages](https://pub.dev/)
+- [Splash screen package link](https://pub.dev/packages/flutter_native_splash)
+
 
 
 ### Tools
