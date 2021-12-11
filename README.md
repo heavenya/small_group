@@ -79,8 +79,10 @@ flutter doctor
 
 ### Sequential Resources
 - [Tool for generating app icons](https://appicon.co/)
-- [Video for manually uploading app icon](https://www.youtube.com/watch?v=O9ChjwrZqns)
-- [Video for manually adding splash screen](https://www.youtube.com/watch?v=itpd898uhyg)
+- [Video for manually uploading app icon. (used manual method)](https://www.youtube.com/watch?v=O9ChjwrZqns)
+- [Video for action of adding splash screen. (used automatic method))](https://www.youtube.com/watch?v=itpd898uhyg)
+- [How to change the app display name. (used automatic method)](https://www.youtube.com/watch?v=kzQsHzr-gjA)
+
 
 ### Additional Resources
 - [Finding coding packages](https://pub.dev/)
