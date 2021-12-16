@@ -82,12 +82,12 @@ flutter doctor
 - [Video for manually uploading app icon. (used manual method)](https://www.youtube.com/watch?v=O9ChjwrZqns)
 - [Video for action of adding splash screen. (used automatic method))](https://www.youtube.com/watch?v=itpd898uhyg)
 - [How to change the app display name. (used automatic method)](https://www.youtube.com/watch?v=kzQsHzr-gjA)
+- [How to add a background image as the default screen](https://www.youtube.com/watch?v=sDS4c1C-Fdg)
 
 
 ### Additional Resources
 - [Finding coding packages](https://pub.dev/)
 - [Splash screen package link](https://pub.dev/packages/flutter_native_splash)
-
 
 
 ### Tools
