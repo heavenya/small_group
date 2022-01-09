@@ -54,10 +54,16 @@ Command + J on keyboard
 flutter run
 ```
 
-- Open Mobile Simulator
+- Open Mobile iOS Simulator
 
 ```
-open -a Simulator
+flutter emulators --launch ios
+```
+
+then
+
+```
+flutter run
 ```
 
 - Check For Errors
